@@ -73,3 +73,12 @@ Cloning the code and installing dependencies
 You can clone the source repository directly from GitHub:
 
 git clone https://github.com/node-red/node-red.git
+
+
+The video presentation can be accessed through
+
+https://drive.google.com/file/d/1Yob1MoiKt5f-C3ZWPvhNwFNdBmG3K1Wd/view?usp=sharing
+
+THE UI
+
+https://samikshanodered.eu-gb.mybluemix.net/ui
