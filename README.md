@@ -1,6 +1,10 @@
 # llSPS-INT-131-AI-Powered-News-Search-App-Level-1-
 AI Powered News Search App (Level-1)
 
+The video presentation can be accessed through:-
+
+https://drive.google.com/file/d/1Yob1MoiKt5f-C3ZWPvhNwFNdBmG3K1Wd/view?usp=sharing
+
 #TO ACCESS JSON NODE RED FILE THROUGH IBM CLOUD
 
 Starter Kit application
@@ -74,10 +78,6 @@ You can clone the source repository directly from GitHub:
 
 git clone https://github.com/node-red/node-red.git
 
-
-The video presentation can be accessed through:-
-
-https://drive.google.com/file/d/1Yob1MoiKt5f-C3ZWPvhNwFNdBmG3K1Wd/view?usp=sharing
 
 Result:-
 
