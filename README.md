@@ -5,6 +5,10 @@ The video presentation can be accessed through:-
 
 https://drive.google.com/file/d/1Yob1MoiKt5f-C3ZWPvhNwFNdBmG3K1Wd/view?usp=sharing
 
+The feedback video can be accessed through:-
+
+https://drive.google.com/file/d/1e1rVyiFIqlIltevXlNy8fATkQi7KT1ro/view?usp=sharing
+
 #TO ACCESS JSON NODE RED FILE THROUGH IBM CLOUD
 
 Starter Kit application
